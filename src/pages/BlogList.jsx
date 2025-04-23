@@ -1,34 +1,32 @@
-import { Link, useParams } from "react-router-dom";
-import { useEffect, useState } from "react";
+import React from "react";
+import { useParams } from "react-router-dom";
 import BlogCard from "../components/BlogCard/BlogCard";
-import '../styles/styles.css'
-const BlogList = () => {
-  const { categoryName } = useParams();
-  const [posts, setPosts] = useState([]);
+import TrendingNews from "../components/TrendingNews/TrendingNews";
+import "../styles/styles.css";
 
-  useEffect(() => {
-    fetch("/data.json")
-      .then((res) => res.json())
-      .then((data) => {
-        const filtered = data.filter(
-          (post) =>
-            post.category.trim().toLowerCase() ===
-            categoryName.trim().toLowerCase()
-        );
-        setPosts(filtered);
-      })
-      .catch((err) => console.error("Fetch error:", err));
-  }, [categoryName]);
+const BlogList = ({ posts }) => {
+  const { categoryName } = useParams();
+  
+  // Filter posts by category
+  const filteredPosts = posts.filter(post => post.category.toLowerCase() === categoryName.toLowerCase());
 
   return (
-    <div className="container">
-      <Link to="/">← Back</Link>
-      <h2>Posts in: {categoryName}</h2>
-      {posts.length === 0 ? (
-        <p>No posts found.</p>
-      ) : (
-        posts.map((post) => <BlogCard key={post.id} post={post} />)
-      )}
+    <div className="blog-list">
+      <h2>Posts in {categoryName}</h2>
+      <div className="grid">
+        {filteredPosts.length > 0 ? (
+          filteredPosts.map((post) => (
+            <BlogCard key={post.id} post={post} />
+          ))
+        ) : (
+          <p>No posts found in this category.</p>
+        )}
+      </div>
+
+      {/* Trending News Section */}
+      <div className="trending-news-section">
+        <TrendingNews posts={posts} />
+      </div>
     </div>
   );
 };

@@ -1,36 +1,28 @@
 import { useParams, Link } from "react-router-dom";
-import { useEffect, useState } from "react";
-import '../styles/styles.css'
-const BlogDetails = () => {
-  const { postId } = useParams();
-  const [post, setPost] = useState(null);
 
-  useEffect(() => {
-    fetch("/data.json")
-      .then((res) => res.json())
-      .then((data) => {
-        const found = data.find((p) => p.id.toString() === postId);
-        setPost(found);
-      })
-      .catch((err) => console.error("Fetch error:", err));
-  }, [postId]);
+const BlogDetails = ({ posts }) => {
+  const { postId } = useParams();
+  const post = posts.find((p) => p.id.toString() === postId);
 
   if (!post) {
     return (
-      <div className="container">
-        <p>Loading or post not found...</p>
-        <Link to="/">← Back to Home</Link>
+      <div className="container mx-auto px-4 py-8">
+        <p>🚫 Post not found.</p>
+        <Link to="/" className="text-blue-500 underline mt-4 block">← Back to Home</Link>
       </div>
     );
   }
 
   return (
-    <div className="container">
-      <Link to="/">← Back to Home</Link>
-      <h2>{post.title}</h2>
-      <p><strong>Author:</strong> {post.name}</p>
-      <p><strong>Category:</strong> {post.category}</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is a sample detailed description for the post.</p>
+    <div className="container mx-auto px-4 py-8">
+      <Link to="/" className="text-blue-500 underline mb-4 block">← Back to Home</Link>
+
+      <div className="bg-white shadow-md rounded-lg p-6">
+        <h2 className="text-2xl font-bold mb-4">{post.title}</h2>
+        <p className="text-gray-700 mb-2"><strong>লেখক:</strong> {post.author}</p>
+        <p className="text-gray-600 mb-4"><strong>ক্যাটাগরি:</strong> {post.category}</p>
+        <p className="text-gray-800 leading-relaxed">{post.content}</p>
+      </div>
     </div>
   );
 };

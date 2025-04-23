@@ -4,6 +4,7 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
+  line-height: 1.6;
 }
 
 /* Container Styling */
@@ -12,9 +13,10 @@ body {
   margin: 40px auto;
   padding: 24px;
   background-color: #fff;
-  border-radius: 12px;
+  border-radius: 16px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease-in-out;
+  border-left: 8px solid #fda019; /* African-inspired accent color */
 }
 
 .container:hover {
@@ -25,21 +27,21 @@ body {
 .container h2 {
   font-size: 2rem;
   margin-bottom: 12px;
-  color: #222;
+  color: #1a202c;
 }
 
 /* Back Link */
 .container a {
   display: inline-block;
   margin-bottom: 24px;
-  color: #0077ff;
+  color: #fda019; /* Vibrant accent color */
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s ease;
 }
 
 .container a:hover {
-  color: #0056cc;
+  color: #d17b00;
   text-decoration: underline;
 }
 
@@ -54,18 +56,6 @@ body {
   color: #555;
 }
 
-/* Loading/Error Messages */
-.container p:first-of-type {
-  font-style: italic;
-  color: #999;
-}
-
-/* Posts Section */
-.container .no-posts {
-  font-style: italic;
-  color: #999;
-}
-
 /* Category List & Buttons */
 .category-list {
   display: flex;
@@ -74,18 +64,19 @@ body {
 }
 
 .category-btn {
-  padding: 10px 20px;
+  padding: 12px 24px;
   font-size: 1rem;
   border: none;
-  background-color: #007bff;
+  background-color: #1a202c;
   color: white;
   cursor: pointer;
-  border-radius: 6px;
+  border-radius: 8px;
   transition: 0.3s;
 }
 
 .category-btn:hover {
-  background-color: #0056b3;
+  background-color: #fda019;
+  color: #333;
 }
 
 /* Blog Cards Container */
@@ -104,6 +95,7 @@ body {
   padding: 16px;
   text-decoration: none;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-left: 8px solid #fda019;
 }
 
 .blog-card:hover {
@@ -130,3 +122,116 @@ body {
 .blog-card a:hover {
   text-decoration: none;
 }
+
+/* Trending News Section */
+.trending-news {
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  border-left: 8px solid #fda019; /* Consistent accent color */
+}
+
+.trending-news h2 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #2d3748;
+  border-bottom: 2px solid #fda019; /* Add border to make it pop */
+  padding-bottom: 0.5rem;
+}
+
+.trending-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+/* Specific Page Styling */
+.blog-details {
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  padding: 32px;
+}
+
+.blog-details h2 {
+  font-size: 2rem;
+  color: #1a202c;
+  margin-bottom: 16px;
+}
+
+.blog-details p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 16px;
+}
+
+.blog-details .author {
+  color: #fda019;
+  font-weight: bold;
+}
+
+.blog-details .category {
+  color: #2d3748;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .blog-card-container {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .blog-card-container {
+    grid-template-columns: 1fr;
+  }
+
+  .container {
+    padding: 16px;
+  }
+}
+
+
+
+/* Container Styling */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+}
+
+/* Blog List and Heading */
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+/* No posts found message */
+p {
+  font-size: 1.1rem;
+  color: #6b7280;
+  font-style: italic;
+}
+
+/* Grid layout for blog posts */
+.grid {
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+/* Trending News Section */
+.trending-news-section {
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
