@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Renewable Energy",
+    "author": "Mow",
+    "category": "Environment",
+    "content": "Renewable energy is key to a sustainable future...",
+    "date": "2025-04-20",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 2,
+    "title": "Plastic Waste and Ocean Life",
+    "author": "Junaid",
+    "category": "Environment",
+    "content": "Plastic pollution is destroying marine ecosystems...",
+    "date": "2025-04-15",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 3,
+    "title": "Climate Change Facts You Should Know",
+    "author": "Sadia",
+    "category": "Environment",
+    "content": "Climate change is not a hoax; it's a real global threat...",
+    "date": "2025-04-10",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+
+  {
+    "id": 4,
+    "title": "Mastering React Hooks",
+    "author": "Mow",
+    "category": "React",
+    "content": "Hooks simplify your functional components in React...",
+    "date": "2025-04-18",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 5,
+    "title": "Building Reusable Components",
+    "author": "Nayeem",
+    "category": "React",
+    "content": "Reusable components make your code scalable...",
+    "date": "2025-04-12",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 6,
+    "title": "React vs Vue: Which is Better?",
+    "author": "Faria",
+    "category": "React",
+    "content": "Both React and Vue have their pros and cons...",
+    "date": "2025-04-08",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+
+  {
+    "id": 7,
+    "title": "What is MongoDB and Why Use It?",
+    "author": "Mow",
+    "category": "Database",
+    "content": "MongoDB is a NoSQL database that's perfect for fast development...",
+    "date": "2025-04-17",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 8,
+    "title": "SQL vs NoSQL: A Developer's Guide",
+    "author": "Junaid",
+    "category": "Database",
+    "content": "Understanding the core differences between SQL and NoSQL...",
+    "date": "2025-04-14",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 9,
+    "title": "Database Indexing for Speed",
+    "author": "Sadia",
+    "category": "Database",
+    "content": "Proper indexing can make queries blazing fast...",
+    "date": "2025-04-09",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+
+  {
+    "id": 10,
+    "title": "Mastering CSS Grid",
+    "author": "Mow",
+    "category": "CSS",
+    "content": "CSS Grid lets you build complex layouts with ease...",
+    "date": "2025-04-19",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 11,
+    "title": "Dark Mode with CSS Variables",
+    "author": "Faria",
+    "category": "CSS",
+    "content": "Learn how to toggle dark mode using simple CSS tricks...",
+    "date": "2025-04-11",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 12,
+    "title": "Animations with @keyframes",
+    "author": "Junaid",
+    "category": "CSS",
+    "content": "CSS animations can make your UI more dynamic...",
+    "date": "2025-04-06",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+
+  {
+    "id": 13,
+    "title": "How to Create REST APIs",
+    "author": "Sadia",
+    "category": "Backend",
+    "content": "REST APIs allow smooth communication between frontend and backend...",
+    "date": "2025-04-13",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 14,
+    "title": "Node.js Crash Course",
+    "author": "Mow",
+    "category": "Backend",
+    "content": "Node.js lets you run JavaScript on the server side...",
+    "date": "2025-04-07",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 15,
+    "title": "Express.js Routing Explained",
+    "author": "Nayeem",
+    "category": "Backend",
+    "content": "Routing is a core part of building web servers with Express...",
+    "date": "2025-04-05",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  }
+]
