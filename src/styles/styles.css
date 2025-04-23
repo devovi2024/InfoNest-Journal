@@ -235,3 +235,17 @@ p {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 
+
+
+.tab-button {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  background-color: #f1f1f1;
+}
+
+.tab-button.active {
+  background-color: #4caf50;
+  color: white;
+}

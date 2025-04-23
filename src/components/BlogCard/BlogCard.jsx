@@ -8,7 +8,7 @@ const BlogCard = ({ post, linkToDetail = true }) => {
         {post.content.substring(0, 100)}...
       </p>
       <p className="text-sm text-gray-600">
-        <strong>লেখক:</strong> {post.author}
+        <strong>Author:</strong> {post.author}
       </p>
     </div>
   );

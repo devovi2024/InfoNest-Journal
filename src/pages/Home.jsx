@@ -24,6 +24,9 @@ const Home = () => {
           <CategoryCard key={i} category={cat} />
         ))}
       </div>
+
+
+
     </div>
   );
 };
