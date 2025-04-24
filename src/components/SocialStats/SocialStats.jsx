@@ -11,7 +11,7 @@ const SocialFollowCards = () => {
   ];
 
   return (
-    <div className="p-4 max-w-screen-sm mx-auto">
+    <div className="p-4-sm mx-auto">
       <h2 className="text-xl font-semibold mb-4">Follow Us</h2>
       <div className="grid-layout">
         {stats.map((item, index) => (

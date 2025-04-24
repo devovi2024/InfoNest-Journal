@@ -8,7 +8,6 @@ const TrendingNews = ({ posts }) => {
     .sort((a, b) => b.views - a.views)
     .slice(0, 4);
 
-  return (
     <div className="trending-news mt-10">
       <h2 className="text-xl font-bold mb-4">🔥 Trending</h2>
       <div className="trending-grid grid gap-4 md:grid-cols-2 lg:grid-cols-4">
