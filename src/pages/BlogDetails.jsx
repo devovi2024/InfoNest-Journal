@@ -89,7 +89,7 @@ const BlogDetails = ({ posts }) => {
           <PreviousNextPost posts={posts} currentPostId={postId} />
           </div>
 
-          <div className="mt-6">
+          <div className="mt-10">
             <LatestPost posts={posts} />
           </div>
 
@@ -100,7 +100,7 @@ const BlogDetails = ({ posts }) => {
 
 
 
-          <div className="lg:w-1/3">
+          <div className="lg:w-1/3 mt-10">
             <div className="tabs flex space-x-4 mb-6">
               <button
                 onClick={() => setActiveTab("related")}
@@ -122,7 +122,7 @@ const BlogDetails = ({ posts }) => {
               </button>
             </div>
 
-            <div className="mt-6">
+            <div className="mt-10">
               {activeTab === "related" && <RelatedPosts posts={posts} category={post.category} />}
               {activeTab === "popular" && <PopularPosts posts={posts} />}
               {activeTab === "recent" && <RecentPosts posts={posts} />}
@@ -138,9 +138,17 @@ const BlogDetails = ({ posts }) => {
               </Link>
             </div>
 
+            <div className="mt-10">
             <SocialStats />
+            </div>
+
+            <div className="mt-10">
             <MostShare posts={posts} />
+            </div>
+
+            <div className="mt-10">
             <Newsletter />
+            </div>
           </div>
 
 
