@@ -59,13 +59,12 @@ const BlogDetails = ({ posts }) => {
   }
 
   return (
-    <div className="container mx-auto px-4 py-8 ">
+    <div className="container mx-auto px-4 py-8">
       <Link to="/" className="text-blue-500 underline mb-4 block">← Back to Home</Link>
 
-      <section>
-        <div className="flex flex-col lg:flex-row lg:space-x-6">
-          <div>
-          <div className="bg-white shadow-lg rounded-lg p-6 flex-1 mb-6 lg:mb-0">
+      <section className="flex flex-col lg:flex-row lg:space-x-6">
+        <div className="lg:w-2/3">
+          <div className="bg-white shadow-lg rounded-lg p-6 mb-6">
             <div className="flex justify-between items-center mb-6">
               <h2 className="text-3xl font-semibold text-gray-800">{post.title}</h2>
               <button
@@ -85,75 +84,67 @@ const BlogDetails = ({ posts }) => {
             <p className="text-gray-800 leading-relaxed">{post.content}</p>
           </div>
 
-          <div>
           <PreviousNextPost posts={posts} currentPostId={postId} />
-          </div>
 
           <div className="mt-10">
             <LatestPost posts={posts} />
           </div>
 
           <div className="mt-10">
-            <CommentSection/>
+            <CommentSection />
           </div>
-          </div>
-
-
-
-          <div className="lg:w-1/3 mt-10">
-            <div className="tabs flex space-x-4 mb-6">
-              <button
-                onClick={() => setActiveTab("related")}
-                className={`tab-button px-4 py-2 rounded-md ${activeTab === "related" ? "bg-blue-500 text-white" : "text-gray-700"}`}
-              >
-                Related
-              </button>
-              <button
-                onClick={() => setActiveTab("popular")}
-                className={`tab-button px-4 py-2 rounded-md ${activeTab === "popular" ? "bg-blue-500 text-white" : "text-gray-700"}`}
-              >
-                Popular
-              </button>
-              <button
-                onClick={() => setActiveTab("recent")}
-                className={`tab-button px-4 py-2 rounded-md ${activeTab === "recent" ? "bg-blue-500 text-white" : "text-gray-700"}`}
-              >
-                Recent
-              </button>
-            </div>
-
-            <div className="mt-10">
-              {activeTab === "related" && <RelatedPosts posts={posts} category={post.category} />}
-              {activeTab === "popular" && <PopularPosts posts={posts} />}
-              {activeTab === "recent" && <RecentPosts posts={posts} />}
-            </div>
-
-            <div className="relative mt-14">
-              <Link to="/purchase">
-                <img
-                  src="https://i.ibb.co/Hf63Swx/purchase.png"
-                  alt="Purchase"
-                  className="h-84 w-84"
-                />
-              </Link>
-            </div>
-
-            <div className="mt-10">
-            <SocialStats />
-            </div>
-
-            <div className="mt-10">
-            <MostShare posts={posts} />
-            </div>
-
-            <div className="mt-10">
-            <Newsletter />
-            </div>
-          </div>
-
-
         </div>
 
+        <div className="lg:w-1/3 mt-10 lg:mt-0">
+          <div className="tabs flex space-x-4 mb-6">
+            <button
+              onClick={() => setActiveTab("related")}
+              className={`tab-button px-4 py-2 rounded-md ${activeTab === "related" ? "bg-blue-500 text-white" : "text-gray-700"}`}
+            >
+              Related
+            </button>
+            <button
+              onClick={() => setActiveTab("popular")}
+              className={`tab-button px-4 py-2 rounded-md ${activeTab === "popular" ? "bg-blue-500 text-white" : "text-gray-700"}`}
+            >
+              Popular
+            </button>
+            <button
+              onClick={() => setActiveTab("recent")}
+              className={`tab-button px-4 py-2 rounded-md ${activeTab === "recent" ? "bg-blue-500 text-white" : "text-gray-700"}`}
+            >
+              Recent
+            </button>
+          </div>
+
+          <div className="mt-10">
+            {activeTab === "related" && <RelatedPosts posts={posts} category={post.category} />}
+            {activeTab === "popular" && <PopularPosts posts={posts} />}
+            {activeTab === "recent" && <RecentPosts posts={posts} />}
+          </div>
+
+          <div className="relative mt-14">
+            <Link to="/purchase">
+              <img
+                src="https://i.ibb.co/Hf63Swx/purchase.png"
+                alt="Purchase"
+                className="w-full max-w-[300px] mx-auto"
+              />
+            </Link>
+          </div>
+
+          <div className="mt-10">
+            <SocialStats />
+          </div>
+
+          <div className="mt-10">
+            <MostShare posts={posts} />
+          </div>
+
+          <div className="mt-10">
+            <Newsletter />
+          </div>
+        </div>
       </section>
     </div>
   );

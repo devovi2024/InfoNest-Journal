@@ -7,7 +7,7 @@
     "views": 180,
     "content": "Renewable energy is key to a sustainable future...",
     "date": "2025-04-20",
-    "thumbnail": "https://via.placeholder.com/300x200"
+    "thumbnail": "https://i.ibb.co.com/tMypL71X/react-icon-svg.webp"
   },
   {
     "id": 2,
@@ -148,5 +148,2240 @@
     "content": "Routing is a core part of building web servers with Express...",
     "date": "2025-04-05",
     "thumbnail": "https://via.placeholder.com/300x200"
-  }
-]
+  },
+    {
+      "id": 16,
+      "title": "JavaScript ES6 Features You Should Know",
+      "author": "Mow",
+      "category": "JavaScript",
+      "views": 200,
+      "content": "ES6 brings new features like arrow functions, promises, and classes...",
+      "date": "2025-04-21",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 17,
+      "title": "Understanding Asynchronous JavaScript",
+      "author": "Junaid",
+      "category": "JavaScript",
+      "views": 180,
+      "content": "Asynchronous programming helps in handling tasks like APIs without blocking...",
+      "date": "2025-04-22",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 18,
+      "title": "CSS Flexbox for Responsive Design",
+      "author": "Sadia",
+      "category": "CSS",
+      "views": 210,
+      "content": "CSS Flexbox is great for creating flexible and responsive layouts...",
+      "date": "2025-04-23",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 19,
+      "title": "Building a Simple Portfolio with React",
+      "author": "Mow",
+      "category": "React",
+      "views": 250,
+      "content": "React is perfect for building dynamic portfolios with components...",
+      "date": "2025-04-24",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 20,
+      "title": "Implementing JWT Authentication in Express.js",
+      "author": "Faria",
+      "category": "Backend",
+      "views": 100,
+      "content": "JWT authentication is a popular method for securing APIs...",
+      "date": "2025-04-25",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 21,
+      "title": "Web Scraping with Node.js and Cheerio",
+      "author": "Junaid",
+      "category": "Backend",
+      "views": 90,
+      "content": "Learn how to scrape data from websites using Node.js and Cheerio...",
+      "date": "2025-04-26",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 22,
+      "title": "GraphQL vs REST: Pros and Cons",
+      "author": "Sadia",
+      "category": "Backend",
+      "views": 140,
+      "content": "GraphQL offers more flexibility compared to REST APIs in some cases...",
+      "date": "2025-04-27",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 23,
+      "title": "Responsive Design Principles",
+      "author": "Mow",
+      "category": "CSS",
+      "views": 185,
+      "content": "Responsive design ensures your website works well on all screen sizes...",
+      "date": "2025-04-28",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 24,
+      "title": "Implementing Dark Mode in Your Website",
+      "author": "Nayeem",
+      "category": "CSS",
+      "views": 120,
+      "content": "Dark mode is a popular feature for modern web applications...",
+      "date": "2025-04-29",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 25,
+      "title": "Unit Testing in JavaScript with Jest",
+      "author": "Faria",
+      "category": "JavaScript",
+      "views": 100,
+      "content": "Jest makes it easy to write unit tests for your JavaScript code...",
+      "date": "2025-04-30",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 26,
+      "title": "Debugging JavaScript Code Effectively",
+      "author": "Sadia",
+      "category": "JavaScript",
+      "views": 130,
+      "content": "Learn effective debugging techniques for JavaScript with tools like DevTools...",
+      "date": "2025-05-01",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 27,
+      "title": "CSS Variables for Customization",
+      "author": "Mow",
+      "category": "CSS",
+      "views": 170,
+      "content": "CSS variables allow you to store reusable values for your styles...",
+      "date": "2025-05-02",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 28,
+      "title": "Building a Weather App with React and APIs",
+      "author": "Junaid",
+      "category": "React",
+      "views": 210,
+      "content": "Building a weather app using React and integrating external APIs is a fun project...",
+      "date": "2025-05-03",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 29,
+      "title": "Optimizing React Performance with Memoization",
+      "author": "Faria",
+      "category": "React",
+      "views": 150,
+      "content": "Memoization can help in improving React app performance...",
+      "date": "2025-05-04",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+    {
+      "id": 30,
+      "title": "Building RESTful APIs with Express.js",
+      "author": "Mow",
+      "category": "Backend",
+      "views": 190,
+      "content": "RESTful APIs with Express.js allow for seamless communication between client and server...",
+      "date": "2025-05-05",
+      "thumbnail": "https://via.placeholder.com/300x200"
+    },
+      {
+        "id": 31,
+        "title": "Advanced React Patterns",
+        "author": "Mow",
+        "category": "React",
+        "views": 220,
+        "content": "Learn about higher-order components, render props, and other advanced patterns in React...",
+        "date": "2025-05-06",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 32,
+        "title": "JavaScript Closures Explained",
+        "author": "Sadia",
+        "category": "JavaScript",
+        "views": 180,
+        "content": "Closures are a powerful feature in JavaScript that allows functions to remember their scope...",
+        "date": "2025-05-07",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 33,
+        "title": "Handling Forms in React",
+        "author": "Mow",
+        "category": "React",
+        "views": 210,
+        "content": "Learn how to manage and handle forms in React using controlled components...",
+        "date": "2025-05-08",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 34,
+        "title": "Error Handling in JavaScript",
+        "author": "Junaid",
+        "category": "JavaScript",
+        "views": 150,
+        "content": "Error handling in JavaScript is crucial for building resilient applications...",
+        "date": "2025-05-09",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 35,
+        "title": "State Management in React with Redux",
+        "author": "Sadia",
+        "category": "React",
+        "views": 230,
+        "content": "Learn how to manage application state globally with Redux in React...",
+        "date": "2025-05-10",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 36,
+        "title": "Event Loop and Asynchronous Programming",
+        "author": "Mow",
+        "category": "JavaScript",
+        "views": 210,
+        "content": "The event loop is at the core of asynchronous programming in JavaScript...",
+        "date": "2025-05-11",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 37,
+        "title": "Creating and Using Reusable Hooks in React",
+        "author": "Junaid",
+        "category": "React",
+        "views": 200,
+        "content": "Custom hooks allow you to reuse logic in your React components...",
+        "date": "2025-05-12",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 38,
+        "title": "Working with Promises in JavaScript",
+        "author": "Faria",
+        "category": "JavaScript",
+        "views": 180,
+        "content": "Promises are essential for handling asynchronous code in JavaScript...",
+        "date": "2025-05-13",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 39,
+        "title": "CSS Grid vs Flexbox: Which to Choose?",
+        "author": "Sadia",
+        "category": "CSS",
+        "views": 220,
+        "content": "Understand the differences between CSS Grid and Flexbox to choose the right tool for your layout...",
+        "date": "2025-05-14",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 40,
+        "title": "Handling Side Effects in React with useEffect",
+        "author": "Mow",
+        "category": "React",
+        "views": 240,
+        "content": "Learn how to use the useEffect hook to manage side effects in functional components...",
+        "date": "2025-05-15",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 41,
+        "title": "Introduction to Node.js Streams",
+        "author": "Junaid",
+        "category": "Backend",
+        "views": 160,
+        "content": "Streams are a powerful feature in Node.js for handling large amounts of data...",
+        "date": "2025-05-16",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 42,
+        "title": "CSS Flexbox for Navigation Menus",
+        "author": "Sadia",
+        "category": "CSS",
+        "views": 200,
+        "content": "Flexbox is a perfect tool for building responsive and flexible navigation menus...",
+        "date": "2025-05-17",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 43,
+        "title": "Understanding React's Context API",
+        "author": "Mow",
+        "category": "React",
+        "views": 220,
+        "content": "The Context API allows you to pass data through the component tree without using props...",
+        "date": "2025-05-18",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 44,
+        "title": "Understanding the Fetch API in JavaScript",
+        "author": "Faria",
+        "category": "JavaScript",
+        "views": 190,
+        "content": "The Fetch API is a modern way to make HTTP requests in JavaScript...",
+        "date": "2025-05-19",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      {
+        "id": 45,
+        "title": "Building a Chat App with Socket.io and Node.js",
+        "author": "Junaid",
+        "category": "Backend",
+        "views": 230,
+        "content": "Learn how to build a real-time chat application using Socket.io and Node.js...",
+        "date": "2025-05-20",
+        "thumbnail": "https://via.placeholder.com/300x200"
+      },
+      
+        {
+          "id": 46,
+          "title": "Async/Await in JavaScript",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 260,
+          "content": "Async/Await makes handling asynchronous code more readable and manageable in JavaScript...",
+          "date": "2025-05-21",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 47,
+          "title": "Building a To-Do App with React",
+          "author": "Sadia",
+          "category": "React",
+          "views": 220,
+          "content": "Build a simple and functional to-do app using React and local storage...",
+          "date": "2025-05-22",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 48,
+          "title": "JavaScript Event Delegation",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 250,
+          "content": "Event delegation is a powerful technique for improving performance in JavaScript...",
+          "date": "2025-05-23",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 49,
+          "title": "CSS Transitions for Smooth Effects",
+          "author": "Mow",
+          "category": "CSS",
+          "views": 190,
+          "content": "Learn how to create smooth and attractive animations using CSS transitions...",
+          "date": "2025-05-24",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 50,
+          "title": "Web Accessibility Best Practices",
+          "author": "Faria",
+          "category": "CSS",
+          "views": 210,
+          "content": "Ensure your website is accessible to everyone by following web accessibility best practices...",
+          "date": "2025-05-25",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 51,
+          "title": "Introduction to Webpack",
+          "author": "Junaid",
+          "category": "Frontend",
+          "views": 230,
+          "content": "Webpack is a powerful bundler that can optimize your JavaScript and assets for production...",
+          "date": "2025-05-26",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 52,
+          "title": "Mastering CSS Flexbox",
+          "author": "Sadia",
+          "category": "CSS",
+          "views": 280,
+          "content": "Flexbox is essential for creating flexible and responsive layouts in CSS...",
+          "date": "2025-05-27",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 53,
+          "title": "Vue.js vs React: A Detailed Comparison",
+          "author": "Mow",
+          "category": "React",
+          "views": 260,
+          "content": "A deep dive into the differences between Vue.js and React to help you choose the right framework...",
+          "date": "2025-05-28",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 54,
+          "title": "Understanding Higher Order Components in React",
+          "author": "Faria",
+          "category": "React",
+          "views": 240,
+          "content": "Higher order components are a powerful pattern for reusing component logic in React...",
+          "date": "2025-05-29",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 55,
+          "title": "Node.js File System (fs) Module Explained",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 220,
+          "content": "Learn how to work with the file system in Node.js using the fs module...",
+          "date": "2025-05-30",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 56,
+          "title": "Building a Weather App with React and OpenWeather API",
+          "author": "Mow",
+          "category": "React",
+          "views": 210,
+          "content": "Create a weather app that fetches data from the OpenWeather API and displays it using React...",
+          "date": "2025-06-01",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 57,
+          "title": "Getting Started with TypeScript in React",
+          "author": "Sadia",
+          "category": "React",
+          "views": 250,
+          "content": "TypeScript brings static typing to JavaScript and enhances your React development experience...",
+          "date": "2025-06-02",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 58,
+          "title": "Optimizing React Performance",
+          "author": "Faria",
+          "category": "React",
+          "views": 240,
+          "content": "Learn how to optimize React applications for better performance...",
+          "date": "2025-06-03",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 59,
+          "title": "Intro to Git and GitHub for Beginners",
+          "author": "Mow",
+          "category": "Git",
+          "views": 230,
+          "content": "Learn how to use Git for version control and collaborate with GitHub...",
+          "date": "2025-06-04",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 60,
+          "title": "Understanding JavaScript's 'this' Keyword",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 260,
+          "content": "The 'this' keyword can be confusing, but understanding it is key to mastering JavaScript...",
+          "date": "2025-06-05",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 61,
+          "title": "Mastering the DOM with JavaScript",
+          "author": "Sadia",
+          "category": "JavaScript",
+          "views": 280,
+          "content": "Learn how to manipulate the Document Object Model (DOM) with JavaScript for interactive web pages...",
+          "date": "2025-06-06",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 62,
+          "title": "Asynchronous Programming with JavaScript Promises",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 290,
+          "content": "Understand how JavaScript handles asynchronous programming using promises...",
+          "date": "2025-06-07",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 63,
+          "title": "CSS Grid Layout Basics",
+          "author": "Faria",
+          "category": "CSS",
+          "views": 250,
+          "content": "CSS Grid Layout allows you to create complex and responsive layouts with ease...",
+          "date": "2025-06-08",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 64,
+          "title": "Learning React Lifecycle Methods",
+          "author": "Junaid",
+          "category": "React",
+          "views": 270,
+          "content": "Understand React's lifecycle methods and how they are used for managing component states...",
+          "date": "2025-06-09",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 65,
+          "title": "CSS Variables for Dynamic Styling",
+          "author": "Sadia",
+          "category": "CSS",
+          "views": 240,
+          "content": "Learn how to use CSS variables for creating dynamic and reusable styling in your web apps...",
+          "date": "2025-06-10",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 66,
+          "title": "Building a Blog App with Express and MongoDB",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 300,
+          "content": "Learn how to create a blog application with Express.js and MongoDB as the database...",
+          "date": "2025-06-11",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 67,
+          "title": "Advanced JavaScript Array Methods",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 250,
+          "content": "Master advanced JavaScript array methods like map, reduce, and filter for cleaner code...",
+          "date": "2025-06-12",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 68,
+          "title": "Responsive Design with Media Queries",
+          "author": "Sadia",
+          "category": "CSS",
+          "views": 230,
+          "content": "Use media queries in CSS to make your website look good on all screen sizes...",
+          "date": "2025-06-13",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 69,
+          "title": "Building a Full-Stack Application with MERN Stack",
+          "author": "Faria",
+          "category": "Full-Stack",
+          "views": 320,
+          "content": "Learn how to build a full-stack web application using the MERN stack...",
+          "date": "2025-06-14",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 70,
+          "title": "State Management in React with Redux",
+          "author": "Mow",
+          "category": "React",
+          "views": 300,
+          "content": "State management in React can be challenging, but Redux simplifies it for you...",
+          "date": "2025-06-15",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+
+        {
+          "id": 71,
+          "title": "Exploring ES6 Features in JavaScript",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 310,
+          "content": "ES6 brought many exciting features to JavaScript, including arrow functions and promises...",
+          "date": "2025-06-16",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 72,
+          "title": "Understanding React Hooks: useState and useEffect",
+          "author": "Faria",
+          "category": "React",
+          "views": 270,
+          "content": "Hooks like useState and useEffect revolutionized how we work with React components...",
+          "date": "2025-06-17",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 73,
+          "title": "Responsive Web Design: A Beginner's Guide",
+          "author": "Sadia",
+          "category": "CSS",
+          "views": 250,
+          "content": "Learn the basics of responsive web design to make your websites adaptable to different screen sizes...",
+          "date": "2025-06-18",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 74,
+          "title": "Understanding JavaScript Closures",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 290,
+          "content": "Closures are a fundamental concept in JavaScript, helping with data encapsulation and function scopes...",
+          "date": "2025-06-19",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 75,
+          "title": "CSS Grid vs Flexbox: Which One to Use?",
+          "author": "Junaid",
+          "category": "CSS",
+          "views": 220,
+          "content": "CSS Grid and Flexbox are both powerful layout systems, but which one should you choose for your project?",
+          "date": "2025-06-20",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 76,
+          "title": "Stateful vs Stateless Components in React",
+          "author": "Sadia",
+          "category": "React",
+          "views": 240,
+          "content": "React components can be either stateful or stateless, and understanding the difference is key to effective development...",
+          "date": "2025-06-21",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 77,
+          "title": "Mastering JavaScript's Map and Set",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 260,
+          "content": "Map and Set are essential data structures in JavaScript for storing and managing unique values and key-value pairs...",
+          "date": "2025-06-22",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 78,
+          "title": "Using Redux for State Management in React",
+          "author": "Faria",
+          "category": "React",
+          "views": 280,
+          "content": "Redux helps manage the global state in large React applications, making data flow predictable and manageable...",
+          "date": "2025-06-23",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 79,
+          "title": "The Power of JavaScript's Spread Operator",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 230,
+          "content": "Learn how the spread operator simplifies merging arrays and objects in JavaScript...",
+          "date": "2025-06-24",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 80,
+          "title": "Building a Contact Form with React",
+          "author": "Mow",
+          "category": "React",
+          "views": 210,
+          "content": "Create a functional and stylish contact form with React that can handle form submissions...",
+          "date": "2025-06-25",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 81,
+          "title": "Exploring Node.js Event Loop",
+          "author": "Sadia",
+          "category": "Backend",
+          "views": 290,
+          "content": "The Node.js event loop is key to understanding its asynchronous nature and handling multiple requests efficiently...",
+          "date": "2025-06-26",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 82,
+          "title": "Mastering JavaScript Destructuring",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 260,
+          "content": "Destructuring is a simple yet powerful feature of JavaScript that allows you to unpack values from arrays and objects...",
+          "date": "2025-06-27",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 83,
+          "title": "Building a CRUD Application with Express.js",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 300,
+          "content": "Learn how to build a simple CRUD application using Express.js to handle basic data operations...",
+          "date": "2025-06-28",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 84,
+          "title": "JavaScript Hoisting Explained",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 270,
+          "content": "Hoisting is an essential concept in JavaScript, affecting the behavior of variables and functions during execution...",
+          "date": "2025-06-29",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 85,
+          "title": "Working with JSON in JavaScript",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 230,
+          "content": "JSON is a lightweight data format commonly used for transmitting data in web applications. Learn how to parse and stringify JSON...",
+          "date": "2025-06-30",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 86,
+          "title": "Building a Blog with Next.js and MongoDB",
+          "author": "Sadia",
+          "category": "Full-Stack",
+          "views": 320,
+          "content": "Next.js is a powerful React framework, and MongoDB is a NoSQL database. Learn how to build a full-stack blog application...",
+          "date": "2025-07-01",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 87,
+          "title": "Handling Errors in JavaScript",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 280,
+          "content": "Learn how to gracefully handle errors in JavaScript using try-catch blocks and error boundaries...",
+          "date": "2025-07-02",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 88,
+          "title": "Understanding the React Context API",
+          "author": "Junaid",
+          "category": "React",
+          "views": 270,
+          "content": "The React Context API is a great way to pass data deeply throughout your component tree without using props...",
+          "date": "2025-07-03",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 89,
+          "title": "Introduction to MongoDB and Mongoose",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 310,
+          "content": "MongoDB is a NoSQL database, and Mongoose is a powerful library to interact with MongoDB from Node.js...",
+          "date": "2025-07-04",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 90,
+          "title": "Handling Forms in React: Controlled vs Uncontrolled",
+          "author": "Faria",
+          "category": "React",
+          "views": 250,
+          "content": "Learn the difference between controlled and uncontrolled components when working with forms in React...",
+          "date": "2025-07-05",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 91,
+          "title": "JavaScript Array Methods: Map, Filter, Reduce",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 230,
+          "content": "Master JavaScript's array methods like map, filter, and reduce for better data manipulation and functional programming...",
+          "date": "2025-07-06",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 92,
+          "title": "Creating a Portfolio Website with React",
+          "author": "Mow",
+          "category": "React",
+          "views": 330,
+          "content": "Create an impressive and responsive portfolio website using React and modern design principles...",
+          "date": "2025-07-07",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 93,
+          "title": "Introduction to Vue.js: A Progressive Framework",
+          "author": "Sadia",
+          "category": "Frontend",
+          "views": 240,
+          "content": "Vue.js is an approachable and flexible JavaScript framework. Learn how to build your first Vue.js application...",
+          "date": "2025-07-08",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 94,
+          "title": "Understanding Asynchronous JavaScript: Callbacks, Promises, Async/Await",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 290,
+          "content": "Learn how asynchronous code works in JavaScript, covering callbacks, promises, and async/await...",
+          "date": "2025-07-09",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 95,
+          "title": "Server-Side Rendering in React with Next.js",
+          "author": "Faria",
+          "category": "React",
+          "views": 280,
+          "content": "Next.js makes server-side rendering easy in React. Learn how to set up SSR in your projects...",
+          "date": "2025-07-10",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 96,
+          "title": "Exploring JavaScript's Event Loop",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 260,
+          "content": "The event loop is crucial for understanding how JavaScript executes asynchronous code. Learn the internals here...",
+          "date": "2025-07-11",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 97,
+          "title": "Building Real-Time Chat Applications with Socket.IO",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 340,
+          "content": "Learn how to build a real-time chat application using Node.js and Socket.IO for instant communication...",
+          "date": "2025-07-12",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 98,
+          "title": "JavaScript Promises: A Deep Dive",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 300,
+          "content": "Promises are a cornerstone of asynchronous JavaScript. This post will explore them in detail and show how to use them effectively...",
+          "date": "2025-07-13",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 99,
+          "title": "Building a RESTful API with Express and MongoDB",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 320,
+          "content": "Learn how to create a fully functional RESTful API using Express.js and MongoDB, perfect for full-stack applications...",
+          "date": "2025-07-14",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 100,
+          "title": "CSS Flexbox: A Complete Guide",
+          "author": "Mow",
+          "category": "CSS",
+          "views": 290,
+          "content": "Flexbox is an essential tool for building responsive layouts. In this guide, we'll explore how to use Flexbox for better web design...",
+          "date": "2025-07-15",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 101,
+          "title": "Introduction to TypeScript for React Developers",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "TypeScript provides static typing and other features that make React development more predictable. Learn how to get started with TypeScript in React...",
+          "date": "2025-07-16",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 102,
+          "title": "Understanding CSS Variables",
+          "author": "Junaid",
+          "category": "CSS",
+          "views": 270,
+          "content": "CSS Variables (also called custom properties) allow for more dynamic and reusable styles. Learn how to use them in your projects...",
+          "date": "2025-07-17",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 103,
+          "title": "Using GraphQL with React for Efficient Data Fetching",
+          "author": "Mow",
+          "category": "React",
+          "views": 330,
+          "content": "GraphQL offers a more flexible and efficient way to fetch data in React applications. Learn how to integrate GraphQL with React...",
+          "date": "2025-07-18",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 104,
+          "title": "Introduction to Unit Testing in JavaScript with Jest",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 300,
+          "content": "Unit testing is crucial for ensuring your JavaScript code works as expected. Learn how to set up Jest for unit testing in your projects...",
+          "date": "2025-07-19",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 105,
+          "title": "Exploring the JavaScript Fetch API",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "The Fetch API is a modern and powerful way to make HTTP requests in JavaScript. Learn how to use it for data fetching and handling responses...",
+          "date": "2025-07-20",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 106,
+          "title": "Building a To-Do App with React",
+          "author": "Mow",
+          "category": "React",
+          "views": 340,
+          "content": "Building a simple to-do app is a great way to learn React. In this post, we'll walk through creating a to-do list with React components...",
+          "date": "2025-07-21",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 107,
+          "title": "Implementing Pagination in React",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Pagination is important for handling large datasets in React. Learn how to implement pagination with React components...",
+          "date": "2025-07-22",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 108,
+          "title": "Creating a Simple Blog with Express and EJS",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 250,
+          "content": "Learn how to build a simple blog application with Express and EJS. This guide covers everything from routing to dynamic content rendering...",
+          "date": "2025-07-23",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 109,
+          "title": "What is Web Accessibility and Why It Matters?",
+          "author": "Mow",
+          "category": "Web Development",
+          "views": 330,
+          "content": "Web accessibility ensures that websites are usable by everyone, including people with disabilities. Learn why it's essential and how to make your website accessible...",
+          "date": "2025-07-24",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 110,
+          "title": "Introduction to Cloud Computing for Developers",
+          "author": "Faria",
+          "category": "Cloud",
+          "views": 280,
+          "content": "Cloud computing is transforming the way we build and deploy applications. Learn the basics of cloud computing and its benefits for developers...",
+          "date": "2025-07-25",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 111,
+          "title": "Building Single Page Applications with React Router",
+          "author": "Junaid",
+          "category": "React",
+          "views": 300,
+          "content": "React Router allows you to build single-page applications with multiple views. Learn how to set up routing in React projects...",
+          "date": "2025-07-26",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 112,
+          "title": "Working with Asynchronous JavaScript: Callbacks and Promises",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 290,
+          "content": "Callbacks and Promises are two fundamental ways of handling asynchronous operations in JavaScript. Learn the differences and when to use each...",
+          "date": "2025-07-27",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 113,
+          "title": "Setting Up a Node.js Server with Express",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 320,
+          "content": "Learn how to set up a simple Node.js server with Express, including creating routes and serving static files...",
+          "date": "2025-07-28",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 114,
+          "title": "How to Build a React Application with Vite",
+          "author": "Junaid",
+          "category": "React",
+          "views": 340,
+          "content": "Vite is a next-generation, fast build tool for React. Learn how to set up a React application with Vite and enjoy its performance improvements...",
+          "date": "2025-07-29",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 115,
+          "title": "Building Dynamic Forms in React with Hooks",
+          "author": "Mow",
+          "category": "React",
+          "views": 310,
+          "content": "In this post, you'll learn how to build dynamic forms in React, with the help of React hooks like useState and useEffect...",
+          "date": "2025-07-30",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 116,
+          "title": "Exploring JavaScript Array Functions: Map, Filter, and Reduce",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "Learn how to use the most common array functions in JavaScript, including map, filter, and reduce, to manipulate data efficiently...",
+          "date": "2025-07-31",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 117,
+          "title": "Mastering Async/Await in JavaScript",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 330,
+          "content": "Async/await makes asynchronous JavaScript code more readable and manageable. Learn how to master async functions and promises...",
+          "date": "2025-08-01",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 118,
+          "title": "Building a Movie Database App with React and The Movie Database API",
+          "author": "Mow",
+          "category": "React",
+          "views": 350,
+          "content": "Create a movie database app with React by integrating The Movie Database API to display movie details and user ratings...",
+          "date": "2025-08-02",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 119,
+          "title": "Building a Custom React Hook for Fetching Data",
+          "author": "Mow",
+          "category": "React",
+          "views": 360,
+          "content": "Learn how to create a reusable custom React hook for data fetching using the Fetch API and handle loading and error states...",
+          "date": "2025-08-03",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 120,
+          "title": "Handling Forms in React with Controlled Components",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Controlled components are a key part of working with forms in React. This post shows how to manage form input with state...",
+          "date": "2025-08-04",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 121,
+          "title": "Mastering JavaScript Closures: A Complete Guide",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "Closures are one of the most powerful features of JavaScript. Learn how they work and how to use them effectively in your code...",
+          "date": "2025-08-05",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 122,
+          "title": "Building a Portfolio Website with React",
+          "author": "Mow",
+          "category": "React",
+          "views": 350,
+          "content": "Create a professional portfolio website to showcase your skills and projects using React. This post covers the complete setup and design...",
+          "date": "2025-08-06",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 123,
+          "title": "JavaScript Destructuring: A Beginner's Guide",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 310,
+          "content": "Destructuring allows you to unpack values from arrays or properties from objects into distinct variables. Learn how to use it in JavaScript...",
+          "date": "2025-08-07",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 124,
+          "title": "Getting Started with MongoDB for Node.js Developers",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 330,
+          "content": "Learn how to integrate MongoDB with a Node.js backend to handle data storage and management. This guide walks you through the setup and CRUD operations...",
+          "date": "2025-08-08",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 125,
+          "title": "Building a Real-Time To-Do List with Socket.IO",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 340,
+          "content": "This post will guide you through building a real-time collaborative to-do list app using Socket.IO and Express.js...",
+          "date": "2025-08-09",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 126,
+          "title": "Mastering JavaScript Array Methods: Map, Filter, and Reduce",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "These array methods are essential for working with collections in JavaScript. Learn how to use map, filter, and reduce effectively in your code...",
+          "date": "2025-08-10",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 127,
+          "title": "Creating a Responsive Navigation Bar with CSS Flexbox",
+          "author": "Junaid",
+          "category": "CSS",
+          "views": 330,
+          "content": "Learn how to build a flexible, responsive navigation bar using CSS Flexbox for an optimized user experience across devices...",
+          "date": "2025-08-11",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 128,
+          "title": "Setting Up a Local Development Environment for Node.js",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 350,
+          "content": "Learn how to set up a local development environment for building Node.js applications using popular tools and configurations...",
+          "date": "2025-08-12",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 129,
+          "title": "Building a Weather App with React and OpenWeatherMap API",
+          "author": "Faria",
+          "category": "React",
+          "views": 320,
+          "content": "Create a simple weather application in React by integrating the OpenWeatherMap API for real-time weather updates...",
+          "date": "2025-08-13",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 130,
+          "title": "Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 310,
+          "content": "Asynchronous programming in JavaScript is crucial for performance. Learn how to handle async operations using callbacks, promises, and async/await...",
+          "date": "2025-08-14",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 131,
+          "title": "Implementing a Dark Mode Toggle in React",
+          "author": "Mow",
+          "category": "React",
+          "views": 340,
+          "content": "Learn how to implement a dark mode toggle in your React app, allowing users to switch between light and dark themes...",
+          "date": "2025-08-15",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 132,
+          "title": "Optimizing React Performance: Tips and Tricks",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Explore various performance optimization techniques for React applications, such as lazy loading, memoization, and code splitting...",
+          "date": "2025-08-16",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 133,
+          "title": "Exploring JavaScript ES6 Features You Should Know",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 310,
+          "content": "ES6 brought many exciting features to JavaScript. Learn about the new syntax, including arrow functions, classes, template literals, and more...",
+          "date": "2025-08-17",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 134,
+          "title": "Building a CRUD App with React and Express.js",
+          "author": "Mow",
+          "category": "React",
+          "views": 350,
+          "content": "Learn how to build a simple CRUD (Create, Read, Update, Delete) application using React for the frontend and Express.js for the backend...",
+          "date": "2025-08-18",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 135,
+          "title": "CSS Grid Layout: A Comprehensive Guide",
+          "author": "Faria",
+          "category": "CSS",
+          "views": 340,
+          "content": "CSS Grid Layout is an excellent tool for creating complex web layouts. This guide covers everything you need to know to master CSS Grid...",
+          "date": "2025-08-19",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 136,
+          "title": "How to Use Webpack for Bundling JavaScript and CSS",
+          "author": "Junaid",
+          "category": "Web Development",
+          "views": 320,
+          "content": "Webpack is a powerful tool for bundling JavaScript and CSS. This post will guide you through configuring Webpack for your projects...",
+          "date": "2025-08-20",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 137,
+          "title": "Building a Blog with Gatsby and GraphQL",
+          "author": "Mow",
+          "category": "React",
+          "views": 340,
+          "content": "Learn how to build a static blog website using Gatsby.js and fetch data using GraphQL. This guide will help you get started quickly...",
+          "date": "2025-08-21",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 138,
+          "title": "Getting Started with Docker for Developers",
+          "author": "Faria",
+          "category": "DevOps",
+          "views": 310,
+          "content": "Docker is a tool designed to make it easier to create, deploy, and run applications using containers. Learn how to get started with Docker...",
+          "date": "2025-08-22",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 139,
+          "title": "Mastering React's useEffect Hook",
+          "author": "Junaid",
+          "category": "React",
+          "views": 320,
+          "content": "The useEffect hook is a powerful tool in React for handling side effects. This post covers how to use it effectively in functional components...",
+          "date": "2025-08-23",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 140,
+          "title": "Building a Personal Blog with Node.js and Express",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 330,
+          "content": "Learn how to build a simple personal blog using Node.js and Express, including setting up routes, templates, and MongoDB for storing posts...",
+          "date": "2025-08-24",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 141,
+          "title": "Integrating Firebase Authentication into Your React App",
+          "author": "Faria",
+          "category": "React",
+          "views": 320,
+          "content": "Firebase Authentication is an easy way to implement authentication in your React apps. Learn how to integrate Firebase and manage user login...",
+          "date": "2025-08-25",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 142,
+          "title": "A Guide to CSS Transitions and Animations",
+          "author": "Junaid",
+          "category": "CSS",
+          "views": 310,
+          "content": "CSS transitions and animations allow you to add interactivity to your website. This guide will show you how to create smooth animations...",
+          "date": "2025-08-26",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 143,
+          "title": "Working with React Context for Global State Management",
+          "author": "Mow",
+          "category": "React",
+          "views": 330,
+          "content": "React Context provides an easy way to manage global state across your app without prop drilling. Learn how to set up and use Context API...",
+          "date": "2025-08-27",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 144,
+          "title": "Building a Custom Command Line Tool with Node.js",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 320,
+          "content": "Node.js makes it easy to build command-line tools. This tutorial walks you through building a simple custom CLI tool for your projects...",
+          "date": "2025-08-28",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        
+        {
+          "id": 145,
+          "title": "How to Handle Errors in React Using Error Boundaries",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to catch and handle JavaScript errors in your React components using Error Boundaries to ensure smooth user experience...",
+          "date": "2025-08-29",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 146,
+          "title": "Using JavaScript's Map and Set Objects Effectively",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 310,
+          "content": "Map and Set are important ES6 data structures. Learn how to use them for efficient data manipulation and storage in your JavaScript applications...",
+          "date": "2025-08-30",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 147,
+          "title": "Building a Blogging Platform with Node.js and MongoDB",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 330,
+          "content": "Create a full-fledged blogging platform from scratch using Node.js, Express, and MongoDB. This post covers the setup and CRUD operations...",
+          "date": "2025-08-31",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 148,
+          "title": "Building a Custom React Hook for Local Storage",
+          "author": "Mow",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to create a custom hook for storing and retrieving data from local storage in React. This will help persist data across page reloads...",
+          "date": "2025-09-01",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 149,
+          "title": "Creating an E-Commerce Website with React and Stripe Integration",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to integrate Stripe into your React e-commerce website for secure payments. This guide covers the complete setup and transaction handling...",
+          "date": "2025-09-02",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 150,
+          "title": "Handling API Requests in React with Axios",
+          "author": "Junaid",
+          "category": "React",
+          "views": 320,
+          "content": "Axios is a popular HTTP client for making API requests. Learn how to use Axios in React to fetch data, handle responses, and manage errors...",
+          "date": "2025-09-03",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 151,
+          "title": "Introduction to Responsive Design with Media Queries",
+          "author": "Mow",
+          "category": "CSS",
+          "views": 340,
+          "content": "Learn how to build responsive web pages using CSS media queries. This post will cover the basics and demonstrate how to apply responsive styles...",
+          "date": "2025-09-04",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 152,
+          "title": "Building a Full-Stack Todo App with React and Express",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Build a full-stack to-do list application using React for the frontend and Express.js for the backend. This guide covers the entire process...",
+          "date": "2025-09-05",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 153,
+          "title": "Deploying a React App to Netlify",
+          "author": "Junaid",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to deploy your React application to Netlify. This post will cover the steps to build and deploy your app with continuous deployment...",
+          "date": "2025-09-06",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 154,
+          "title": "Understanding React Hooks: useState, useEffect, and Custom Hooks",
+          "author": "Mow",
+          "category": "React",
+          "views": 340,
+          "content": "An in-depth guide to React hooks, including useState, useEffect, and custom hooks. Learn how these hooks help in managing state and side effects...",
+          "date": "2025-09-07",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 155,
+          "title": "How to Build a Chat Application with Node.js and Socket.IO",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 330,
+          "content": "Learn how to build a real-time chat application using Node.js and Socket.IO. This post will guide you through the backend setup and event handling...",
+          "date": "2025-09-08",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 156,
+          "title": "Mastering JavaScript's Array Methods: map, reduce, and filter",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "These JavaScript array methods help you manage and transform data effectively. Learn how to use map, reduce, and filter in practical scenarios...",
+          "date": "2025-09-09",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 157,
+          "title": "Building a Personal Portfolio Website with HTML, CSS, and JavaScript",
+          "author": "Mow",
+          "category": "Web Development",
+          "views": 330,
+          "content": "Create a personal portfolio website from scratch using HTML, CSS, and JavaScript. This post includes tips on design, structure, and best practices...",
+          "date": "2025-09-10",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 158,
+          "title": "Building a Real-Time Data Dashboard with React and Firebase",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to create a real-time data dashboard with React and Firebase. This tutorial will help you display and manage real-time data efficiently...",
+          "date": "2025-09-11",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 159,
+          "title": "Introduction to TypeScript for JavaScript Developers",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "TypeScript adds static typing to JavaScript. Learn how to set up TypeScript and integrate it with your existing JavaScript codebase...",
+          "date": "2025-09-12",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 160,
+          "title": "How to Use React Router for Navigation",
+          "author": "Mow",
+          "category": "React",
+          "views": 340,
+          "content": "Learn how to use React Router for handling navigation in single-page React applications. This post covers setting up routes and using links...",
+          "date": "2025-09-13",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 161,
+          "title": "Exploring the New JavaScript Features in ES2025",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 310,
+          "content": "ES2025 introduces new features for better coding. This post explores the latest improvements and how to use them in your JavaScript projects...",
+          "date": "2025-09-14",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 162,
+          "title": "Building a Simple Blog with Next.js",
+          "author": "Junaid",
+          "category": "React",
+          "views": 330,
+          "content": "Next.js makes building React apps easier and faster. This tutorial shows you how to create a simple blog with Next.js, React, and Markdown...",
+          "date": "2025-09-15",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 163,
+          "title": "Understanding Event Loop in JavaScript",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "The JavaScript event loop is a critical concept for asynchronous programming. Learn how it works and how it affects performance in your applications...",
+          "date": "2025-09-16",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 164,
+          "title": "Building a REST API with Node.js and Express",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 330,
+          "content": "Learn how to build a REST API using Node.js and Express. This post covers the fundamentals of setting up routes, handling requests, and managing responses...",
+          "date": "2025-09-17",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 165,
+          "title": "Using Redux for State Management in React",
+          "author": "Junaid",
+          "category": "React",
+          "views": 310,
+          "content": "Redux is a state management library for JavaScript applications. Learn how to integrate Redux with React to manage global state...",
+          "date": "2025-09-18",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 166,
+          "title": "Creating a Multi-Step Form with React",
+          "author": "Mow",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to build a multi-step form in React, where the user can fill out a series of forms, and easily navigate through steps.",
+          "date": "2025-09-19",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 167,
+          "title": "Integrating Google Maps API in React",
+          "author": "Faria",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to integrate Google Maps into your React application and display maps with custom markers and event handling.",
+          "date": "2025-09-20",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 168,
+          "title": "A Guide to Using Promises in JavaScript",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 330,
+          "content": "Promises are crucial for handling asynchronous operations in JavaScript. Learn how to use them effectively and avoid callback hell.",
+          "date": "2025-09-21",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 169,
+          "title": "How to Secure Your Express API with JWT Authentication",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 340,
+          "content": "Learn how to secure your Express API with JSON Web Token (JWT) authentication to ensure only authorized users can access certain routes.",
+          "date": "2025-09-22",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 170,
+          "title": "Building a Custom Slider Component in React",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Create a custom slider component in React that allows users to navigate through images or content smoothly.",
+          "date": "2025-09-23",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 171,
+          "title": "Building a Real-Time Chat Application with React and Firebase",
+          "author": "Junaid",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to build a real-time chat app using React for the frontend and Firebase for real-time data syncing and authentication.",
+          "date": "2025-09-24",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 172,
+          "title": "How to Use CSS Grid Layout for Responsive Design",
+          "author": "Mow",
+          "category": "CSS",
+          "views": 320,
+          "content": "Master CSS Grid Layout to create complex, responsive web designs. This post covers the basics and advanced grid techniques.",
+          "date": "2025-09-25",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 173,
+          "title": "Introduction to GraphQL and How to Use It in React",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Learn the fundamentals of GraphQL, a powerful query language, and how to integrate it with React for more efficient data fetching.",
+          "date": "2025-09-26",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 174,
+          "title": "Building a RESTful API with Node.js and Express",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 340,
+          "content": "Learn how to create a RESTful API with Node.js and Express, focusing on routing, request handling, and building a simple CRUD API.",
+          "date": "2025-09-27",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 175,
+          "title": "Using Redux Toolkit for Efficient State Management in React",
+          "author": "Mow",
+          "category": "React",
+          "views": 330,
+          "content": "Redux Toolkit simplifies Redux usage. Learn how to use Redux Toolkit for better and more efficient state management in React applications.",
+          "date": "2025-09-28",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 176,
+          "title": "Deploying a Full-Stack Application on Heroku",
+          "author": "Faria",
+          "category": "Deployment",
+          "views": 340,
+          "content": "This post will guide you through the process of deploying a full-stack web application (React and Node.js) on Heroku.",
+          "date": "2025-09-29",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 177,
+          "title": "Creating a Custom Modal Component in React",
+          "author": "Junaid",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to create a custom modal component in React, which is reusable across various parts of your app.",
+          "date": "2025-09-30",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 178,
+          "title": "Building a Movie Search App with React and The Movie Database API",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to build a simple movie search app in React that fetches data from The Movie Database (TMDb) API.",
+          "date": "2025-10-01",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 179,
+          "title": "A Guide to JavaScript Closures and Their Use Cases",
+          "author": "Faria",
+          "category": "JavaScript",
+          "views": 330,
+          "content": "Understand JavaScript closures, a fundamental concept for managing state and creating functions that remember their lexical environment.",
+          "date": "2025-10-02",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 180,
+          "title": "Creating a Blog Post with Markdown and React",
+          "author": "Junaid",
+          "category": "React",
+          "views": 340,
+          "content": "Learn how to create a blog post editor in React that supports Markdown syntax for easy content creation.",
+          "date": "2025-10-03",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 181,
+          "title": "How to Handle Form Validation in React",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Form validation is a common challenge in web apps. Learn how to implement form validation in React using both controlled components and third-party libraries.",
+          "date": "2025-10-04",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 182,
+          "title": "Using Local Storage in React for Persisting Data",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to use local storage in React applications to store user data that persists even after the page reloads.",
+          "date": "2025-10-05",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 183,
+          "title": "How to Optimize Images for Web Performance",
+          "author": "Junaid",
+          "category": "Web Development",
+          "views": 330,
+          "content": "Optimizing images for web performance is essential for fast loading times. Learn techniques for compressing and serving images efficiently.",
+          "date": "2025-10-06",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 184,
+          "title": "Building a Contact Form with React and Node.js",
+          "author": "Mow",
+          "category": "React",
+          "views": 340,
+          "content": "Learn how to build a contact form using React for the frontend and Node.js for handling form submissions and sending emails.",
+          "date": "2025-10-07",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 185,
+          "title": "How to Implement Server-Side Rendering in React with Next.js",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Next.js allows you to implement server-side rendering (SSR) in React. Learn how to set up SSR with Next.js for faster initial page loads.",
+          "date": "2025-10-08",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 186,
+          "title": "Creating an Image Gallery with React and CSS Grid",
+          "author": "Junaid",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to build a responsive image gallery in React using CSS Grid for layout and dynamic rendering of images.",
+          "date": "2025-10-09",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 187,
+          "title": "Understanding JavaScript's 'this' Keyword and Its Behavior",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 340,
+          "content": "The 'this' keyword in JavaScript can be tricky to understand. Learn how it works in different contexts and how to use it effectively.",
+          "date": "2025-10-10",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+
+        {
+          "id": 188,
+          "title": "Understanding Asynchronous JavaScript and Callbacks",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "Learn the basics of asynchronous programming in JavaScript, including callbacks, and how to handle asynchronous tasks efficiently.",
+          "date": "2025-10-11",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 189,
+          "title": "Building a Dark Mode Toggle with React",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Implement a dark mode toggle feature in React, allowing users to switch between light and dark themes on your website.",
+          "date": "2025-10-12",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 190,
+          "title": "Understanding HTTP Requests and Responses in Node.js",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 330,
+          "content": "A deep dive into handling HTTP requests and responses in Node.js. Learn how to set up and manage server responses to client requests.",
+          "date": "2025-10-13",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 191,
+          "title": "Working with React Forms and Controlled Components",
+          "author": "Mow",
+          "category": "React",
+          "views": 340,
+          "content": "Master form handling in React by learning how to use controlled components for efficient user input management.",
+          "date": "2025-10-14",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 192,
+          "title": "Building a Weather App with React and OpenWeatherMap API",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to build a weather app in React that fetches live weather data using the OpenWeatherMap API.",
+          "date": "2025-10-15",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 193,
+          "title": "Introduction to Firebase Authentication in React",
+          "author": "Junaid",
+          "category": "React",
+          "views": 320,
+          "content": "Secure your React app with Firebase Authentication to handle user registration, login, and password reset functionalities.",
+          "date": "2025-10-16",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 194,
+          "title": "Optimizing React Performance with Memoization",
+          "author": "Mow",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to optimize React performance using memoization techniques like `React.memo` and `useMemo` to prevent unnecessary re-renders.",
+          "date": "2025-10-17",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 195,
+          "title": "Creating a Login System with Node.js and MongoDB",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 340,
+          "content": "Learn how to create a user authentication system using Node.js and MongoDB to store and manage user data securely.",
+          "date": "2025-10-18",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 196,
+          "title": "Handling Dates and Times in JavaScript",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 310,
+          "content": "Learn how to handle dates and times in JavaScript, using built-in objects like `Date`, and libraries like `moment.js` for more advanced operations.",
+          "date": "2025-10-19",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 197,
+          "title": "How to Use Hooks in React for State Management",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Learn the basics of React hooks and how they can help you manage state and side effects in a functional component-based application.",
+          "date": "2025-10-20",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 198,
+          "title": "Building a To-Do App with React and Local Storage",
+          "author": "Faria",
+          "category": "React",
+          "views": 310,
+          "content": "Create a simple To-Do application in React that saves tasks to local storage, allowing persistence across page reloads.",
+          "date": "2025-10-21",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 199,
+          "title": "Working with APIs in React Using Axios",
+          "author": "Junaid",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to work with APIs in React by using Axios to fetch data and display it dynamically in your components.",
+          "date": "2025-10-22",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 200,
+          "title": "Using CSS Flexbox for Building Responsive Layouts",
+          "author": "Mow",
+          "category": "CSS",
+          "views": 340,
+          "content": "Learn the power of CSS Flexbox for building responsive layouts that adapt to different screen sizes without complex media queries.",
+          "date": "2025-10-23",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 201,
+          "title": "Setting Up a Basic Express Server with Node.js",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 310,
+          "content": "Learn how to set up a basic Express server with Node.js to handle HTTP requests, serve static files, and set up routing.",
+          "date": "2025-10-24",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 202,
+          "title": "How to Build a Portfolio Website with React",
+          "author": "Junaid",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to build a personal portfolio website in React that showcases your work, skills, and contact information.",
+          "date": "2025-10-25",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 203,
+          "title": "Introduction to MongoDB for Node.js Developers",
+          "author": "Mow",
+          "category": "Backend",
+          "views": 330,
+          "content": "This post is an introduction to MongoDB, a NoSQL database, and how to use it with Node.js for building scalable and flexible web applications.",
+          "date": "2025-10-26",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 204,
+          "title": "Building a User Profile Page with React",
+          "author": "Faria",
+          "category": "React",
+          "views": 340,
+          "content": "Learn how to create a user profile page in React that displays user information and allows updates through forms.",
+          "date": "2025-10-27",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 205,
+          "title": "Using React Context API for Global State Management",
+          "author": "Junaid",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to use the React Context API to manage global state across multiple components without prop drilling.",
+          "date": "2025-10-28",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 206,
+          "title": "Understanding Event Loop and Concurrency in JavaScript",
+          "author": "Mow",
+          "category": "JavaScript",
+          "views": 320,
+          "content": "Get a deep understanding of JavaScript's event loop, how it handles concurrency, and how it executes asynchronous code.",
+          "date": "2025-10-29",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 207,
+          "title": "Creating a Responsive Navigation Menu with CSS and JavaScript",
+          "author": "Faria",
+          "category": "Web Design",
+          "views": 310,
+          "content": "Learn how to create a responsive navigation menu using CSS and JavaScript, which adjusts based on screen size.",
+          "date": "2025-10-30",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 208,
+          "title": "How to Debug JavaScript Code Like a Pro",
+          "author": "Junaid",
+          "category": "JavaScript",
+          "views": 330,
+          "content": "Learn how to debug JavaScript code efficiently using tools like browser dev tools, logging, and breakpoints.",
+          "date": "2025-10-31",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 209,
+          "title": "Creating a Product Landing Page with HTML and CSS",
+          "author": "Mow",
+          "category": "Web Design",
+          "views": 320,
+          "content": "Learn how to create a responsive and visually appealing product landing page using HTML and CSS.",
+          "date": "2025-11-01",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 210,
+          "title": "Building a Task Manager App with React and Redux",
+          "author": "Mow",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to build a task manager application using React and Redux to manage the state efficiently across components.",
+          "date": "2025-11-02",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 211,
+          "title": "Integrating Stripe Payment Gateway in React",
+          "author": "Faria",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to integrate Stripe into your React application for seamless online payments.",
+          "date": "2025-11-03",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 212,
+          "title": "Exploring Node.js Event Emitters and Listeners",
+          "author": "Junaid",
+          "category": "Node.js",
+          "views": 310,
+          "content": "Understand how to work with Node.js event emitters and listeners to handle asynchronous events in your applications.",
+          "date": "2025-11-04",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 213,
+          "title": "Setting Up a Basic React App with Vite",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to set up a modern React application using Vite as a build tool for faster development and build times.",
+          "date": "2025-11-05",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 214,
+          "title": "Building a CRUD App with Express and MongoDB",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 330,
+          "content": "Learn how to build a CRUD application using Express and MongoDB to handle the creation, reading, updating, and deletion of data.",
+          "date": "2025-11-06",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 215,
+          "title": "Mastering React Hooks: useState, useEffect, and More",
+          "author": "Junaid",
+          "category": "React",
+          "views": 340,
+          "content": "Master the essential React hooks, such as `useState`, `useEffect`, `useContext`, and others to manage state and side effects in your React app.",
+          "date": "2025-11-07",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 216,
+          "title": "Introduction to GraphQL for JavaScript Developers",
+          "author": "Mow",
+          "category": "GraphQL",
+          "views": 320,
+          "content": "A beginner's guide to understanding GraphQL, a powerful query language for APIs, and how to use it in JavaScript applications.",
+          "date": "2025-11-08",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 217,
+          "title": "Building a Blog Website with Gatsby.js",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to build a static blog website using Gatsby.js, a React-based static site generator.",
+          "date": "2025-11-09",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 218,
+          "title": "Using WebSockets in Node.js for Real-Time Applications",
+          "author": "Junaid",
+          "category": "Node.js",
+          "views": 310,
+          "content": "Learn how to use WebSockets in Node.js to build real-time web applications like chat applications or live notifications.",
+          "date": "2025-11-10",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 219,
+          "title": "Building a Personal Portfolio Website with React and Firebase",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Create a personal portfolio website to showcase your projects and skills using React and Firebase for easy hosting and backend services.",
+          "date": "2025-11-11",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 220,
+          "title": "Optimizing React Performance with Lazy Loading",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to improve your React app's performance by using lazy loading for components, images, and other assets.",
+          "date": "2025-11-12",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 221,
+          "title": "Handling Forms in React: Controlled vs Uncontrolled Components",
+          "author": "Junaid",
+          "category": "React",
+          "views": 310,
+          "content": "Understand the differences between controlled and uncontrolled components in React when handling forms, and when to use each.",
+          "date": "2025-11-13",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 222,
+          "title": "Building an E-Commerce App with React and Stripe",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Create an e-commerce app with React and Stripe, integrating payment processing and product display functionalities.",
+          "date": "2025-11-14",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 223,
+          "title": "Getting Started with Next.js for Server-Side Rendering",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Learn the basics of Next.js, a React framework for server-side rendering, static site generation, and API routes.",
+          "date": "2025-11-15",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 224,
+          "title": "Exploring MongoDB Aggregation Framework",
+          "author": "Junaid",
+          "category": "Backend",
+          "views": 310,
+          "content": "Dive into MongoDB's aggregation framework to perform advanced queries like filtering, sorting, and grouping data efficiently.",
+          "date": "2025-11-16",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 225,
+          "title": "Setting Up Continuous Deployment with GitHub Actions",
+          "author": "Mow",
+          "category": "DevOps",
+          "views": 320,
+          "content": "Learn how to set up continuous deployment for your project using GitHub Actions to automate the build, test, and deployment process.",
+          "date": "2025-11-17",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 226,
+          "title": "Understanding JWT (JSON Web Tokens) in Web Applications",
+          "author": "Faria",
+          "category": "Backend",
+          "views": 330,
+          "content": "Understand how JSON Web Tokens (JWT) work and how to implement them for secure authentication in web applications.",
+          "date": "2025-11-18",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 227,
+          "title": "Implementing Search Functionality in React with Algolia",
+          "author": "Junaid",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to implement powerful search functionality in React using Algolia, a hosted search API service.",
+          "date": "2025-11-19",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 228,
+          "title": "Understanding and Implementing Middleware in Express.js",
+          "author": "Mow",
+          "category": "Node.js",
+          "views": 320,
+          "content": "Learn how to use middleware in Express.js for request handling, logging, error handling, and more.",
+          "date": "2025-11-20",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 229,
+          "title": "Building a Chat Application with Node.js and Socket.io",
+          "author": "Faria",
+          "category": "Node.js",
+          "views": 330,
+          "content": "Learn how to build a real-time chat application using Node.js and Socket.io to handle bi-directional communication.",
+          "date": "2025-11-21",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 230,
+          "title": "Optimizing React Apps with Code Splitting",
+          "author": "Junaid",
+          "category": "React",
+          "views": 310,
+          "content": "Learn how to optimize React applications by using code splitting to reduce the size of your app and improve load times.",
+          "date": "2025-11-22",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 231,
+          "title": "Deploying a React Application on Netlify",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to deploy a React application to Netlify, a popular platform for continuous deployment of front-end projects.",
+          "date": "2025-11-23",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 232,
+          "title": "Understanding the Basics of Web Accessibility",
+          "author": "Faria",
+          "category": "Web Design",
+          "views": 330,
+          "content": "Learn the basics of web accessibility to make your website more inclusive for users with disabilities.",
+          "date": "2025-11-24",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 233,
+          "title": "Introduction to Serverless Architecture with AWS Lambda",
+          "author": "Junaid",
+          "category": "DevOps",
+          "views": 310,
+          "content": "Learn how to build serverless applications using AWS Lambda to run your code without managing servers.",
+          "date": "2025-11-25",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 234,
+          "title": "Building a Real-Time Data Dashboard with React and WebSockets",
+          "author": "Mow",
+          "category": "React",
+          "views": 320,
+          "content": "Learn how to build a real-time data dashboard using React and WebSockets to update the dashboard with live data.",
+          "date": "2025-11-26",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 235,
+          "title": "Building a Blogging Platform with Django and React",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to build a full-stack blogging platform with Django as the backend and React for the frontend.",
+          "date": "2025-11-27",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 236,
+          "title": "Introduction to Redis for Caching in Node.js",
+          "author": "Junaid",
+          "category": "Node.js",
+          "views": 310,
+          "content": "Learn how to use Redis for caching in Node.js applications to improve performance and reduce database load.",
+          "date": "2025-11-28",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 237,
+          "title": "Setting Up a Development Environment for MERN Stack",
+          "author": "Mow",
+          "category": "MERN",
+          "views": 320,
+          "content": "Learn how to set up a development environment for building MERN stack applications using MongoDB, Express, React, and Node.js.",
+          "date": "2025-11-29",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        },
+        {
+          "id": 238,
+          "title": "Creating a Custom React Hook for Form Validation",
+          "author": "Faria",
+          "category": "React",
+          "views": 330,
+          "content": "Learn how to create a custom React hook for handling form validation in your React applications.",
+          "date": "2025-11-30",
+          "thumbnail": "https://via.placeholder.com/300x200"
+        }
+      ]
+      
