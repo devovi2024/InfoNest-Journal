@@ -5,7 +5,7 @@ export default function RecentPosts({ posts }) {
   const sortedPostsByDate = posts.sort((a, b) => new Date(b.date) - new Date(a.date));
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 h-[400px] overflow-y-auto pr-2">
       {sortedPostsByDate.map((post) => (
         <Link
           to={`/post/${post.id}`}

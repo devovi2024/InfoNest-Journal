@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import Home from "./pages/Home";
 import BlogList from "./pages/BlogList";
 import BlogDetails from "./pages/BlogDetails";
-
+import PurchaseComponent from "./components/PurchaseComponent/PurchaseComponent"
 const App = () => {
   const [posts, setPosts] = useState([]);
 
@@ -20,6 +20,7 @@ const App = () => {
         <Route path="/" element={<Home posts={posts} />} />
         <Route path="/category/:categoryName" element={<BlogList posts={posts} />} />
         <Route path="/post/:postId" element={<BlogDetails posts={posts} />} />
+        <Route path="/purchase" element={<PurchaseComponent/>} />
       </Routes>
     </Router>
   );

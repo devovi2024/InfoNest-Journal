@@ -5,7 +5,7 @@ export default function RelatedPosts({ posts, category }) {
   const relatedPosts = posts.filter(post => post.category === category);
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 h-[400px] overflow-y-auto pr-2">
       {relatedPosts.map((post) => (
         <Link
           to={`/post/${post.id}`}

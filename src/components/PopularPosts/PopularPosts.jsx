@@ -8,7 +8,7 @@ export default function PopularPosts({ posts }) {
 
   return (
     <div className="w-full max-w-md">
-      <div className="space-y-4">
+      <div className="space-y-4 h-[400px] overflow-y-auto pr-2">
         {popularPosts.map((post) => (
           <Link
             to={`/post/${post.id}`}
