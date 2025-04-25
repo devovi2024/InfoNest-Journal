@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import VideoSlider from "../VideoSlider/VideoSlider";
 
 const BlogCard = ({ post, linkToDetail = true }) => {
   const cardContent = (
@@ -13,9 +12,7 @@ const BlogCard = ({ post, linkToDetail = true }) => {
         <strong>Author:</strong> {post.author}
       </p>
 
-      <div>
-        <VideoSlider videoUrls={post.videoUrls} />
-      </div>
+
     </div>
   );
 

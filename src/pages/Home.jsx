@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import CategoryCard from "../components/CategoryCard/CategoryCard";
 import "../styles/styles.css";
 import NewsCarousel from "../components/NewsCarousel/NewsCarousel";
-import VideoSlider from "../components/VideoSlider/VideoSlider";
 
 const Home = () => {
   const [categories, setCategories] = useState([]);
@@ -31,14 +30,7 @@ const Home = () => {
       </div>
 
       <div>
-  <VideoSlider
-    videoUrls={[
-      "https://files.catbox.moe/aupwi9.mp4",
-      "https://files.catbox.moe/aupwi9.mp4",
-      "https://files.catbox.moe/aupwi9.mp4",
-      "https://files.catbox.moe/aupwi9.mp4",
-    ]}
-  />
+
 </div>
 
     </div>
